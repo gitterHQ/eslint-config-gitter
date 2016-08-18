@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-gitter",
+  "version": "1.0.0",
+  "main": "node-4-server-runtime.js",
+  "dependencies": {
+    "eslint-plugin-jquery": "^1.0.1",
+    "eslint-plugin-node": "^2.0.0"
+  }
+}
